@@ -3,7 +3,6 @@
 ![](https://www.finder.com.au/niche-builder/5b19f2f6ba8c1.png)
 
 ## Overview and Origin:
-<<<<<<< HEAD
 Raiz Invest Limited is a fintech industry providing micro-investing options through customized fund portfolios modeled using different risk profiles from conservative to aggressive. RAIZ is currently listed on ASX, having a total market capitalisation of $176 million.
 
 Along with portfolio investments, it also provides a rewards program in its app that allows customers to shop and have a promotional sum invested back into their investment account. The company was incorporated in 2016 and was founded by George Lucas, the current Managing Director and the Group CEO of Raiz Invest Limited. (Directors & Management - Raiz Invest, 2021)
@@ -42,18 +41,8 @@ Raiz uses cloud technology to aggregate all orders placed on the app, which need
 
 ##Competitors 
 Some of the major competitors in this space are commsec pockets , spaceship voyager and Sharesies. All of thes apps promote passive investing among retail investors. The below table summaries the differecnceies in services and costs
-
-Company	 Minimum Investment 	 Services 	 Fees 	 Major  	 ETF 	 Shares 	 Managened Funds 	 Crypto currencies 	 Superannuation 	 Merchant Rewards 
-Raiz	 Nil 	 Pre modelled ETF , they have also modelled crypto currencies in their emarld portfolio 	" $3.5/month for balances below $15000 and 0.275%pa for account balances above $15000.
-$4.50/month ofr custom portfolios below $20000 and 0.275%pa for account balances above $20000
-$2.00/week for Super accounts and 0.373% /year "		ü			ü	ü	ü
-Commsec Pocket	 Nil 	 Pre modelled ETF  	 0.20% of the investment amount and the ETF fee 		ü					
-Spaceship Voyage	 Nil 	 Pre modelled share portfolio 	 No fee for the initial investment upto $5000 and than 0.10% p.a 				ü			
-Sharesies	 Nil 	 Flexibile option to buy shares,etfs and managed funds 	 0.5% for investement upto $3000 and an addiontal 0.1% on investment above $3000 		ü	ü	ü			
+		
 ![image](https://user-images.githubusercontent.com/87921076/129822626-58fe8b0b-6045-4150-83d1-d7157705631e.png)
-
->>>>>>> 3dade3ccfa97ea8f55c0128b64dc5bde18ca77bc
-
 
 ## Competitors: 
 
@@ -81,6 +70,7 @@ In comparison to other companies, Spaceship, and Spaceship voyager claim to have
 
 ### Portfolio Performance
 The other important factor in maintaining a healthy customer base is providing portfolio options that have generated good average returns over the years. Given that market correction due to the pandemic, most of the Raiz portfolios did not perform too great, but neither did they lose too much value in the FY2019-2020. On the contrary, the portfolios have picked up pace in the second half of FY2020 and provided attractive returns as per information specified on Raiz's website. It follows the modern portfolio theory for modelling the ETF portfolios.
+
 ![image](https://user-images.githubusercontent.com/87921076/129902048-1ea3efcc-bafc-4f00-8a21-36ee8fed9d13.png)
 
 ![image](https://user-images.githubusercontent.com/87921076/129902517-803a656c-40f1-4e25-9ea4-22847604aff9.png)
