@@ -39,11 +39,6 @@ Raiz has had strong growth in its consumer base over the last four years. As of 
 
 Raiz uses cloud technology to aggregate all orders placed on the app, which needs clearing and algorithms for automatic asset allocation(Raiz Invest-Investor Centre, 2021). Raiz has partnered with Envestnet Yodlee that helps run the round-ups function within its app, which has invested around $300 million in customer portfolios using its data aggregation platform. (Yodlee, 2021). In addition to this, Raiz partnered with the University of NSW to develop a machine learning engine for its rewards program within the app that has over 165 participating merchants. Customers can shop with the merchant through the app in return for cashback amounts invested directly into their portfolio accounts.(Boost program helps Raiz partner with UNSW to develop new customer technology - Support for businesses, 2021). From an IT security standpoint, Raiz uses Versive Security Engine (VSE) to help protect sensitive customer data and for financial compliance. VSE provides continuous situational awareness inside the customer network and detects internal and external adversaries regardless of the new tools, tactics, or exploits hackers may use.VSE also uses AI to automatically uncover the required chain of potential threat activity that separates the signal—the real risks to Raiz's business and customer information—from normal network noise. (Raiz Security: Strengthens Financial Security and Compliance with AI Cybersecurity, 2021).
 
-##Competitors 
-Some of the major competitors in this space are commsec pockets , spaceship voyager and Sharesies. All of thes apps promote passive investing among retail investors. The below table summaries the differecnceies in services and costs
-		
-![image](https://user-images.githubusercontent.com/87921076/129822626-58fe8b0b-6045-4150-83d1-d7157705631e.png)
-
 ## Competitors: 
 
 Some of the major competitors in this space are Commsec pockets, Spaceship Voyager and Sharesies. All of the apps promote passive investing among retail investors. The below table summarizes the differences in services and costs.
